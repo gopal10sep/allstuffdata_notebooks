@@ -1,0 +1,2019 @@
+
+                         <table  id="t1" align="center" width="60%" border="1" bordercolor="#EBEBEB" style="border-collapse:collapse " cellspacing="0" >
+            <tr bgcolor="silver" >
+                                        <td align="center" rowspan="3"><b>S.No</b></td>
+                                        
+                                        <td align="center" rowspan="3"><b>State</b></td>
+        
+          <td colspan="12" align="center"><b>Month wise Household</b></td> 
+          
+                                  
+  </tr>   
+   <tr bgcolor="silver">
+      
+   
+     <td  align="center" ><b>April</b></td>
+   <td  align="center"><b>May</b></td>
+   <td  align="center"><b>June</b></td>
+   <td  align="center"><b>July</b></td>
+   <td  align="center"><b>August</b></td>
+   <td  align="center"><b>September</b></td>
+   <td  align="center"><b>October</b></td>
+   <td  align="center"><b>November</b></td>
+   <td  align="center"><b>December</b></td>
+   
+   <td  align="center"><b>January</b></td>
+   <td  align="center"><b>February</b></td>
+   <td  align="center"><b>March</b></td>
+  
+     
+     </tr>
+   
+  
+  <tr bgcolor="silver" >
+  
+           <td><b>Household </b></td>
+          
+           <td><b>Household </b></td>
+          
+           <td><b>Household </b></td>
+          
+           <td><b>Household </b></td>
+          
+           <td><b>Household </b></td>
+          
+           <td><b>Household </b></td>
+          
+           <td><b>Household </b></td>
+          
+           <td><b>Household </b></td>
+          
+           <td><b>Household </b></td>
+          
+           <td><b>Household </b></td>
+          
+           <td><b>Household </b></td>
+          
+           <td><b>Household </b></td>
+          
+   </tr>
+     
+   <tr bgcolor="silver">
+   
+                <td align="center"><b>1</b></td>
+                 
+                <td align="center"><b>2</b></td>
+                 
+                <td align="center"><b>3</b></td>
+                 
+                <td align="center"><b>4</b></td>
+                 
+                <td align="center"><b>5</b></td>
+                 
+                <td align="center"><b>6</b></td>
+                 
+                <td align="center"><b>7</b></td>
+                 
+                <td align="center"><b>8</b></td>
+                 
+                <td align="center"><b>9</b></td>
+                 
+                <td align="center"><b>10</b></td>
+                 
+                <td align="center"><b>11</b></td>
+                 
+                <td align="center"><b>12</b></td>
+                 
+                <td align="center"><b>13</b></td>
+                 
+                <td align="center"><b>14</b></td>
+                 
+   </tr>
+   
+    <tr>
+    <td id="Repeater1_ctl37_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl37_Label1">1</span></font></td>
+
+    <td id="Repeater1_ctl37_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl37_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=ANDHRA+PRADESH&state_code=02&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=k/DLm3gA0efqCCMFOMF/kw'>ANDHRA PRADESH</a></span></font></td>
+
+    
+    
+       
+       <td align="right">1777938</td>
+ 
+   
+    <td align="right">2069080</td>
+ 
+   
+    <td align="right">2149075</td>
+  
+   
+   <td align="right">1068096</td>
+ 
+   
+   <td align="right">592200</td>
+  
+   
+   <td align="right">413193</td>
+  
+   
+   <td align="right">233634</td>
+ 
+   
+   <td align="right">167672</td>
+
+   
+   <td align="right">224333</td>
+ 
+   
+   <td align="right">252745</td>
+  
+   
+   <td align="right">617231</td>
+ 
+   
+   <td align="right">1157304</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl38_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl38_Label1">2</span></font></td>
+
+    <td id="Repeater1_ctl38_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl38_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=ARUNACHAL+PRADESH&state_code=03&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=C9CYV5EYTDK7LcTZhCCIJg'>ARUNACHAL PRADESH</a></span></font></td>
+
+    
+    
+       
+       <td align="right">13213</td>
+ 
+   
+    <td align="right">5299</td>
+ 
+   
+    <td align="right">12819</td>
+  
+   
+   <td align="right">17116</td>
+ 
+   
+   <td align="right">10032</td>
+  
+   
+   <td align="right">19750</td>
+  
+   
+   <td align="right">11994</td>
+ 
+   
+   <td align="right">9386</td>
+
+   
+   <td align="right">27749</td>
+ 
+   
+   <td align="right">29468</td>
+  
+   
+   <td align="right">34009</td>
+ 
+   
+   <td align="right">60801</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl39_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl39_Label1">3</span></font></td>
+
+    <td id="Repeater1_ctl39_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl39_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=ASSAM&state_code=04&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=ogSOGgW90OMjIWnZaoQA6Q'>ASSAM</a></span></font></td>
+
+    
+    
+       
+       <td align="right">49411</td>
+ 
+   
+    <td align="right">68090</td>
+ 
+   
+    <td align="right">81114</td>
+  
+   
+   <td align="right">122273</td>
+ 
+   
+   <td align="right">215400</td>
+  
+   
+   <td align="right">278248</td>
+  
+   
+   <td align="right">246564</td>
+ 
+   
+   <td align="right">208993</td>
+
+   
+   <td align="right">238987</td>
+ 
+   
+   <td align="right">135263</td>
+  
+   
+   <td align="right">119798</td>
+ 
+   
+   <td align="right">279997</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl40_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl40_Label1">4</span></font></td>
+
+    <td id="Repeater1_ctl40_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl40_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=BIHAR&state_code=05&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=JtD15zmK0xVRld+GeGG/6Q'>BIHAR</a></span></font></td>
+
+    
+    
+       
+       <td align="right">283612</td>
+ 
+   
+    <td align="right">427774</td>
+ 
+   
+    <td align="right">501509</td>
+  
+   
+   <td align="right">191465</td>
+ 
+   
+   <td align="right">150573</td>
+  
+   
+   <td align="right">125060</td>
+  
+   
+   <td align="right">100962</td>
+ 
+   
+   <td align="right">81297</td>
+
+   
+   <td align="right">69304</td>
+ 
+   
+   <td align="right">49216</td>
+  
+   
+   <td align="right">28063</td>
+ 
+   
+   <td align="right">38862</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl41_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl41_Label1">5</span></font></td>
+
+    <td id="Repeater1_ctl41_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl41_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=CHHATTISGARH&state_code=33&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=DSKN7LWuQGoI9UISMv6GYQ'>CHHATTISGARH</a></span></font></td>
+
+    
+    
+       
+       <td align="right">953181</td>
+ 
+   
+    <td align="right">1174017</td>
+ 
+   
+    <td align="right">1041738</td>
+  
+   
+   <td align="right">172943</td>
+ 
+   
+   <td align="right">46952</td>
+  
+   
+   <td align="right">34899</td>
+  
+   
+   <td align="right">13047</td>
+ 
+   
+   <td align="right">8014</td>
+
+   
+   <td align="right">8224</td>
+ 
+   
+   <td align="right">5956</td>
+  
+   
+   <td align="right">6170</td>
+ 
+   
+   <td align="right">9481</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl42_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl42_Label1">6</span></font></td>
+
+    <td id="Repeater1_ctl42_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl42_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=GOA&state_code=10&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=JOlQarDcCwJKGlKW/3PDcA'>GOA</a></span></font></td>
+
+    
+    
+       
+       <td align="right">1020</td>
+ 
+   
+    <td align="right">2165</td>
+ 
+   
+    <td align="right">2294</td>
+  
+   
+   <td align="right">2030</td>
+ 
+   
+   <td align="right">1702</td>
+  
+   
+   <td align="right">2788</td>
+  
+   
+   <td align="right">2166</td>
+ 
+   
+   <td align="right">1108</td>
+
+   
+   <td align="right">1051</td>
+ 
+   
+   <td align="right">997</td>
+  
+   
+   <td align="right">961</td>
+ 
+   
+   <td align="right">1137</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl43_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl43_Label1">7</span></font></td>
+
+    <td id="Repeater1_ctl43_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl43_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=GUJARAT&state_code=11&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=AD+o1OYWyfcmDdauYs8HZg'>GUJARAT</a></span></font></td>
+
+    
+    
+       
+       <td align="right">69791</td>
+ 
+   
+    <td align="right">132973</td>
+ 
+   
+    <td align="right">225586</td>
+  
+   
+   <td align="right">161890</td>
+ 
+   
+   <td align="right">69103</td>
+  
+   
+   <td align="right">55874</td>
+  
+   
+   <td align="right">53394</td>
+ 
+   
+   <td align="right">76119</td>
+
+   
+   <td align="right">92213</td>
+ 
+   
+   <td align="right">85293</td>
+  
+   
+   <td align="right">108352</td>
+ 
+   
+   <td align="right">73290</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl44_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl44_Label1">8</span></font></td>
+
+    <td id="Repeater1_ctl44_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl44_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=HARYANA&state_code=12&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=u5w0+0Db3PHeqm5kr4UQJA'>HARYANA</a></span></font></td>
+
+    
+    
+       
+       <td align="right">18746</td>
+ 
+   
+    <td align="right">46811</td>
+ 
+   
+    <td align="right">73459</td>
+  
+   
+   <td align="right">64141</td>
+ 
+   
+   <td align="right">46533</td>
+  
+   
+   <td align="right">28102</td>
+  
+   
+   <td align="right">17668</td>
+ 
+   
+   <td align="right">27863</td>
+
+   
+   <td align="right">32657</td>
+ 
+   
+   <td align="right">33906</td>
+  
+   
+   <td align="right">30208</td>
+ 
+   
+   <td align="right">23840</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl45_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl45_Label1">9</span></font></td>
+
+    <td id="Repeater1_ctl45_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl45_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=HIMACHAL+PRADESH&state_code=13&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=Hks+4MMlf5oqHTvFhzBCeQ'>HIMACHAL PRADESH</a></span></font></td>
+
+    
+    
+       
+       <td align="right">84098</td>
+ 
+   
+    <td align="right">93293</td>
+ 
+   
+    <td align="right">110954</td>
+  
+   
+   <td align="right">122478</td>
+ 
+   
+   <td align="right">84995</td>
+  
+   
+   <td align="right">97365</td>
+  
+   
+   <td align="right">109018</td>
+ 
+   
+   <td align="right">148369</td>
+
+   
+   <td align="right">102520</td>
+ 
+   
+   <td align="right">102152</td>
+  
+   
+   <td align="right">118137</td>
+ 
+   
+   <td align="right">114118</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl46_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl46_Label1">10</span></font></td>
+
+    <td id="Repeater1_ctl46_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl46_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=JAMMU+AND+KASHMIR&state_code=14&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=7aqhIsxijsw7MiAKSZlsdA'>JAMMU AND KASHMIR</a></span></font></td>
+
+    
+    
+       
+       <td align="right">18629</td>
+ 
+   
+    <td align="right">30873</td>
+ 
+   
+    <td align="right">39234</td>
+  
+   
+   <td align="right">43878</td>
+ 
+   
+   <td align="right">40089</td>
+  
+   
+   <td align="right">34027</td>
+  
+   
+   <td align="right">49020</td>
+ 
+   
+   <td align="right">61791</td>
+
+   
+   <td align="right">65043</td>
+ 
+   
+   <td align="right">60498</td>
+  
+   
+   <td align="right">72517</td>
+ 
+   
+   <td align="right">105561</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl47_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl47_Label1">11</span></font></td>
+
+    <td id="Repeater1_ctl47_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl47_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=JHARKHAND&state_code=34&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=Xt/CjNam3gn+FGDpa5NhGw'>JHARKHAND</a></span></font></td>
+
+    
+    
+       
+       <td align="right">280491</td>
+ 
+   
+    <td align="right">408580</td>
+ 
+   
+    <td align="right">432769</td>
+  
+   
+   <td align="right">313125</td>
+ 
+   
+   <td align="right">210529</td>
+  
+   
+   <td align="right">266443</td>
+  
+   
+   <td align="right">262986</td>
+ 
+   
+   <td align="right">175988</td>
+
+   
+   <td align="right">144081</td>
+ 
+   
+   <td align="right">277417</td>
+  
+   
+   <td align="right">406444</td>
+ 
+   
+   <td align="right">386398</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl48_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl48_Label1">12</span></font></td>
+
+    <td id="Repeater1_ctl48_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl48_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=KARNATAKA&state_code=15&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=JcZrReJbcW/mOSbjXFpSyg'>KARNATAKA</a></span></font></td>
+
+    
+    
+       
+       <td align="right">199651</td>
+ 
+   
+    <td align="right">230106</td>
+ 
+   
+    <td align="right">152605</td>
+  
+   
+   <td align="right">142742</td>
+ 
+   
+   <td align="right">139112</td>
+  
+   
+   <td align="right">242354</td>
+  
+   
+   <td align="right">120143</td>
+ 
+   
+   <td align="right">114717</td>
+
+   
+   <td align="right">123627</td>
+ 
+   
+   <td align="right">148001</td>
+  
+   
+   <td align="right">143084</td>
+ 
+   
+   <td align="right">69517</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl49_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl49_Label1">13</span></font></td>
+
+    <td id="Repeater1_ctl49_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl49_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=KERALA&state_code=16&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=rKKNvEYoKV05VlNKoXR+Qw'>KERALA</a></span></font></td>
+
+    
+    
+       
+       <td align="right">21421</td>
+ 
+   
+    <td align="right">174770</td>
+ 
+   
+    <td align="right">310404</td>
+  
+   
+   <td align="right">424263</td>
+ 
+   
+   <td align="right">566257</td>
+  
+   
+   <td align="right">532661</td>
+  
+   
+   <td align="right">724231</td>
+ 
+   
+   <td align="right">663279</td>
+
+   
+   <td align="right">664173</td>
+ 
+   
+   <td align="right">743994</td>
+  
+   
+   <td align="right">802963</td>
+ 
+   
+   <td align="right">772099</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl50_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl50_Label1">14</span></font></td>
+
+    <td id="Repeater1_ctl50_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl50_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=MADHYA+PRADESH&state_code=17&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=bWsh2CjBy28VAvn1uAuV7A'>MADHYA PRADESH</a></span></font></td>
+
+    
+    
+       
+       <td align="right">1082585</td>
+ 
+   
+    <td align="right">1376291</td>
+ 
+   
+    <td align="right">1487192</td>
+  
+   
+   <td align="right">946181</td>
+ 
+   
+   <td align="right">417385</td>
+  
+   
+   <td align="right">415286</td>
+  
+   
+   <td align="right">429949</td>
+ 
+   
+   <td align="right">297585</td>
+
+   
+   <td align="right">192213</td>
+ 
+   
+   <td align="right">98510</td>
+  
+   
+   <td align="right">94665</td>
+ 
+   
+   <td align="right">88821</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl51_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl51_Label1">15</span></font></td>
+
+    <td id="Repeater1_ctl51_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl51_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=MAHARASHTRA&state_code=18&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=W+KKv223e4eaDidNNnjhXw'>MAHARASHTRA</a></span></font></td>
+
+    
+    
+       
+       <td align="right">371155</td>
+ 
+   
+    <td align="right">496272</td>
+ 
+   
+    <td align="right">450912</td>
+  
+   
+   <td align="right">260232</td>
+ 
+   
+   <td align="right">167561</td>
+  
+   
+   <td align="right">128932</td>
+  
+   
+   <td align="right">109439</td>
+ 
+   
+   <td align="right">153328</td>
+
+   
+   <td align="right">220997</td>
+ 
+   
+   <td align="right">300903</td>
+  
+   
+   <td align="right">372584</td>
+ 
+   
+   <td align="right">362673</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl52_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl52_Label1">16</span></font></td>
+
+    <td id="Repeater1_ctl52_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl52_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=MANIPUR&state_code=20&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=HtyA/u4VxS7cY5xhZ2zBew'>MANIPUR</a></span></font></td>
+
+    
+    
+       
+       <td align="right">8171</td>
+ 
+   
+    <td align="right">71746</td>
+ 
+   
+    <td align="right">196019</td>
+  
+   
+   <td align="right">157202</td>
+ 
+   
+   <td align="right">195744</td>
+  
+   
+   <td align="right">223032</td>
+  
+   
+   <td align="right">114733</td>
+ 
+   
+   <td align="right">138256</td>
+
+   
+   <td align="right">170255</td>
+ 
+   
+   <td align="right">97441</td>
+  
+   
+   <td align="right">200645</td>
+ 
+   
+   <td align="right">216774</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl53_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl53_Label1">17</span></font></td>
+
+    <td id="Repeater1_ctl53_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl53_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=MEGHALAYA&state_code=21&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=P51NsjyMgRxOjXjUTArPcA'>MEGHALAYA</a></span></font></td>
+
+    
+    
+       
+       <td align="right">3737</td>
+ 
+   
+    <td align="right">13143</td>
+ 
+   
+    <td align="right">28979</td>
+  
+   
+   <td align="right">54284</td>
+ 
+   
+   <td align="right">67309</td>
+  
+   
+   <td align="right">87605</td>
+  
+   
+   <td align="right">120575</td>
+ 
+   
+   <td align="right">143913</td>
+
+   
+   <td align="right">121031</td>
+ 
+   
+   <td align="right">131117</td>
+  
+   
+   <td align="right">158050</td>
+ 
+   
+   <td align="right">109134</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl54_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl54_Label1">18</span></font></td>
+
+    <td id="Repeater1_ctl54_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl54_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=MIZORAM&state_code=22&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=kqUgc+6FgoWwLxNEQ9XYbA'>MIZORAM</a></span></font></td>
+
+    
+    
+       
+       <td align="right">0</td>
+ 
+   
+    <td align="right">0</td>
+ 
+   
+    <td align="right">0</td>
+  
+   
+   <td align="right">0</td>
+ 
+   
+   <td align="right">0</td>
+  
+   
+   <td align="right">174053</td>
+  
+   
+   <td align="right">84346</td>
+ 
+   
+   <td align="right">93405</td>
+
+   
+   <td align="right">162467</td>
+ 
+   
+   <td align="right">13383</td>
+  
+   
+   <td align="right">176560</td>
+ 
+   
+   <td align="right">176909</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl55_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl55_Label1">19</span></font></td>
+
+    <td id="Repeater1_ctl55_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl55_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=NAGALAND&state_code=23&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=YQH2+LV/45cTnqYnK8f79A'>NAGALAND</a></span></font></td>
+
+    
+    
+       
+       <td align="right">238479</td>
+ 
+   
+    <td align="right">167840</td>
+ 
+   
+    <td align="right">175074</td>
+  
+   
+   <td align="right">153951</td>
+ 
+   
+   <td align="right">120045</td>
+  
+   
+   <td align="right">112531</td>
+  
+   
+   <td align="right">95420</td>
+ 
+   
+   <td align="right">79298</td>
+
+   
+   <td align="right">79345</td>
+ 
+   
+   <td align="right">75887</td>
+  
+   
+   <td align="right">98325</td>
+ 
+   
+   <td align="right">81378</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl56_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl56_Label1">20</span></font></td>
+
+    <td id="Repeater1_ctl56_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl56_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=ODISHA&state_code=24&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=Thrxr6XBYWdP8dmj9BHB8A'>ODISHA</a></span></font></td>
+
+    
+    
+       
+       <td align="right">283471</td>
+ 
+   
+    <td align="right">589680</td>
+ 
+   
+    <td align="right">600113</td>
+  
+   
+   <td align="right">209607</td>
+ 
+   
+   <td align="right">233171</td>
+  
+   
+   <td align="right">246540</td>
+  
+   
+   <td align="right">249665</td>
+ 
+   
+   <td align="right">262302</td>
+
+   
+   <td align="right">290628</td>
+ 
+   
+   <td align="right">385396</td>
+  
+   
+   <td align="right">365969</td>
+ 
+   
+   <td align="right">290448</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl57_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl57_Label1">21</span></font></td>
+
+    <td id="Repeater1_ctl57_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl57_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=PUNJAB&state_code=26&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=WTvhf7Be0vlw9gMbKEAK0w'>PUNJAB</a></span></font></td>
+
+    
+    
+       
+       <td align="right">56241</td>
+ 
+   
+    <td align="right">99247</td>
+ 
+   
+    <td align="right">125475</td>
+  
+   
+   <td align="right">64990</td>
+ 
+   
+   <td align="right">58438</td>
+  
+   
+   <td align="right">21375</td>
+  
+   
+   <td align="right">9139</td>
+ 
+   
+   <td align="right">6891</td>
+
+   
+   <td align="right">15242</td>
+ 
+   
+   <td align="right">22378</td>
+  
+   
+   <td align="right">41045</td>
+ 
+   
+   <td align="right">49703</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl58_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl58_Label1">22</span></font></td>
+
+    <td id="Repeater1_ctl58_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl58_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=RAJASTHAN&state_code=27&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=u4UNs4naID5URu7Oa1S+wA'>RAJASTHAN</a></span></font></td>
+
+    
+    
+       
+       <td align="right">823725</td>
+ 
+   
+    <td align="right">1784952</td>
+ 
+   
+    <td align="right">2271503</td>
+  
+   
+   <td align="right">1211731</td>
+ 
+   
+   <td align="right">362201</td>
+  
+   
+   <td align="right">368000</td>
+  
+   
+   <td align="right">342429</td>
+ 
+   
+   <td align="right">557281</td>
+
+   
+   <td align="right">844084</td>
+ 
+   
+   <td align="right">572337</td>
+  
+   
+   <td align="right">718515</td>
+ 
+   
+   <td align="right">815842</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl59_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl59_Label1">23</span></font></td>
+
+    <td id="Repeater1_ctl59_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl59_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=SIKKIM&state_code=28&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=5YQrqRT2gjLuAGmzfdxBVA'>SIKKIM</a></span></font></td>
+
+    
+    
+       
+       <td align="right">3932</td>
+ 
+   
+    <td align="right">10797</td>
+ 
+   
+    <td align="right">24667</td>
+  
+   
+   <td align="right">16142</td>
+ 
+   
+   <td align="right">11410</td>
+  
+   
+   <td align="right">12773</td>
+  
+   
+   <td align="right">5495</td>
+ 
+   
+   <td align="right">9633</td>
+
+   
+   <td align="right">9010</td>
+ 
+   
+   <td align="right">10151</td>
+  
+   
+   <td align="right">15146</td>
+ 
+   
+   <td align="right">22851</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl60_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl60_Label1">24</span></font></td>
+
+    <td id="Repeater1_ctl60_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl60_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=TAMIL+NADU&state_code=29&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=/PJOY3aVilznyD54pkPXDg'>TAMIL NADU</a></span></font></td>
+
+    
+    
+       
+       <td align="right">3374877</td>
+ 
+   
+    <td align="right">3903595</td>
+ 
+   
+    <td align="right">3984221</td>
+  
+   
+   <td align="right">3833790</td>
+ 
+   
+   <td align="right">1808642</td>
+  
+   
+   <td align="right">1176515</td>
+  
+   
+   <td align="right">876902</td>
+ 
+   
+   <td align="right">800911</td>
+
+   
+   <td align="right">933715</td>
+ 
+   
+   <td align="right">1460476</td>
+  
+   
+   <td align="right">2143651</td>
+ 
+   
+   <td align="right">2087418</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl61_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl61_Label1">25</span></font></td>
+
+    <td id="Repeater1_ctl61_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl61_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=TELANGANA&state_code=36&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=/EhxbGEfEt5PbhKgFcNtow'>TELANGANA</a></span></font></td>
+
+    
+    
+       
+       <td align="right">1233553</td>
+ 
+   
+    <td align="right">1492114</td>
+ 
+   
+    <td align="right">1380051</td>
+  
+   
+   <td align="right">666292</td>
+ 
+   
+   <td align="right">259821</td>
+  
+   
+   <td align="right">225701</td>
+  
+   
+   <td align="right">155459</td>
+ 
+   
+   <td align="right">130413</td>
+
+   
+   <td align="right">151947</td>
+ 
+   
+   <td align="right">224616</td>
+  
+   
+   <td align="right">585781</td>
+ 
+   
+   <td align="right">842716</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl62_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl62_Label1">26</span></font></td>
+
+    <td id="Repeater1_ctl62_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl62_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=TRIPURA&state_code=30&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=JgGGZKj93TFR2XlLhKqm3g'>TRIPURA</a></span></font></td>
+
+    
+    
+       
+       <td align="right">1337</td>
+ 
+   
+    <td align="right">34867</td>
+ 
+   
+    <td align="right">381250</td>
+  
+   
+   <td align="right">185580</td>
+ 
+   
+   <td align="right">292916</td>
+  
+   
+   <td align="right">340963</td>
+  
+   
+   <td align="right">184351</td>
+ 
+   
+   <td align="right">375241</td>
+
+   
+   <td align="right">471656</td>
+ 
+   
+   <td align="right">513209</td>
+  
+   
+   <td align="right">504738</td>
+ 
+   
+   <td align="right">475834</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl63_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl63_Label1">27</span></font></td>
+
+    <td id="Repeater1_ctl63_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl63_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=UTTAR+PRADESH&state_code=31&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=bhCIax2Z6Zn/HRR1HnBgTg'>UTTAR PRADESH</a></span></font></td>
+
+    
+    
+       
+       <td align="right">306169</td>
+ 
+   
+    <td align="right">554511</td>
+ 
+   
+    <td align="right">1168877</td>
+  
+   
+   <td align="right">1101447</td>
+ 
+   
+   <td align="right">735939</td>
+  
+   
+   <td align="right">549989</td>
+  
+   
+   <td align="right">596588</td>
+ 
+   
+   <td align="right">778310</td>
+
+   
+   <td align="right">1210259</td>
+ 
+   
+   <td align="right">1234986</td>
+  
+   
+   <td align="right">1188472</td>
+ 
+   
+   <td align="right">1148706</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl64_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl64_Label1">28</span></font></td>
+
+    <td id="Repeater1_ctl64_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl64_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=UTTARAKHAND&state_code=35&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=w+AWJB58LbLgaHEpwwPqJQ'>UTTARAKHAND</a></span></font></td>
+
+    
+    
+       
+       <td align="right">5368</td>
+ 
+   
+    <td align="right">11068</td>
+ 
+   
+    <td align="right">8568</td>
+  
+   
+   <td align="right">17425</td>
+ 
+   
+   <td align="right">36440</td>
+  
+   
+   <td align="right">62296</td>
+  
+   
+   <td align="right">86386</td>
+ 
+   
+   <td align="right">123458</td>
+
+   
+   <td align="right">149848</td>
+ 
+   
+   <td align="right">186693</td>
+  
+   
+   <td align="right">187385</td>
+ 
+   
+   <td align="right">161238</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl65_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl65_Label1">29</span></font></td>
+
+    <td id="Repeater1_ctl65_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl65_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=WEST+BENGAL&state_code=32&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=tpW4naPo6t6CdNtbLTKKfg'>WEST BENGAL</a></span></font></td>
+
+    
+    
+       
+       <td align="right">777886</td>
+ 
+   
+    <td align="right">1019493</td>
+ 
+   
+    <td align="right">2431390</td>
+  
+   
+   <td align="right">1949604</td>
+ 
+   
+   <td align="right">1396786</td>
+  
+   
+   <td align="right">1021030</td>
+  
+   
+   <td align="right">729747</td>
+ 
+   
+   <td align="right">718726</td>
+
+   
+   <td align="right">653796</td>
+ 
+   
+   <td align="right">762034</td>
+  
+   
+   <td align="right">972350</td>
+ 
+   
+   <td align="right">1176022</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl66_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl66_Label1">30</span></font></td>
+
+    <td id="Repeater1_ctl66_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl66_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=ANDAMAN+AND+NICOBAR&state_code=01&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=wQ/5t4HLPJlCBURF4i6Efw'>ANDAMAN AND NICOBAR</a></span></font></td>
+
+    
+    
+       
+       <td align="right">3248</td>
+ 
+   
+    <td align="right">4728</td>
+ 
+   
+    <td align="right">4521</td>
+  
+   
+   <td align="right">3334</td>
+ 
+   
+   <td align="right">3853</td>
+  
+   
+   <td align="right">4747</td>
+  
+   
+   <td align="right">2901</td>
+ 
+   
+   <td align="right">2659</td>
+
+   
+   <td align="right">4007</td>
+ 
+   
+   <td align="right">3371</td>
+  
+   
+   <td align="right">4693</td>
+ 
+   
+   <td align="right">4223</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl67_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl67_Label1">31</span></font></td>
+
+    <td id="Repeater1_ctl67_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl67_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=DADRA+%26+NAGAR+HAVELI&state_code=07&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=F4MvnVQKyPnZ8rKA1qAgdw'>DADRA & NAGAR HAVELI</a></span></font></td>
+
+    
+    
+       
+       <td align="right">0</td>
+ 
+   
+    <td align="right">0</td>
+ 
+   
+    <td align="right">0</td>
+  
+   
+   <td align="right">0</td>
+ 
+   
+   <td align="right">0</td>
+  
+   
+   <td align="right">0</td>
+  
+   
+   <td align="right">0</td>
+ 
+   
+   <td align="right">0</td>
+
+   
+   <td align="right">0</td>
+ 
+   
+   <td align="right">0</td>
+  
+   
+   <td align="right">0</td>
+ 
+   
+   <td align="right">0</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl68_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl68_Label1">32</span></font></td>
+
+    <td id="Repeater1_ctl68_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl68_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=DAMAN+%26+DIU&state_code=08&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=KlVeArFQ7/NU6D9p6FLj9g'>DAMAN & DIU</a></span></font></td>
+
+    
+    
+       
+       <td align="right">0</td>
+ 
+   
+    <td align="right">0</td>
+ 
+   
+    <td align="right">0</td>
+  
+   
+   <td align="right">0</td>
+ 
+   
+   <td align="right">0</td>
+  
+   
+   <td align="right">0</td>
+  
+   
+   <td align="right">0</td>
+ 
+   
+   <td align="right">0</td>
+
+   
+   <td align="right">0</td>
+ 
+   
+   <td align="right">0</td>
+  
+   
+   <td align="right">0</td>
+ 
+   
+   <td align="right">0</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl69_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl69_Label1">33</span></font></td>
+
+    <td id="Repeater1_ctl69_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl69_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=LAKSHADWEEP&state_code=19&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=Zx5rlmfWmKq3tA+8gc0oNg'>LAKSHADWEEP</a></span></font></td>
+
+    
+    
+       
+       <td align="right">0</td>
+ 
+   
+    <td align="right">7</td>
+ 
+   
+    <td align="right">50</td>
+  
+   
+   <td align="right">5</td>
+ 
+   
+   <td align="right">43</td>
+  
+   
+   <td align="right">29</td>
+  
+   
+   <td align="right">56</td>
+ 
+   
+   <td align="right">109</td>
+
+   
+   <td align="right">81</td>
+ 
+   
+   <td align="right">69</td>
+  
+   
+   <td align="right">204</td>
+ 
+   
+   <td align="right">222</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl70_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl70_Label1">34</span></font></td>
+
+    <td id="Repeater1_ctl70_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl70_Label2"><a href='demand_emp_demand.aspx?file1=empprov&page1=s&lflag=eng&state_name=PUDUCHERRY&state_code=25&fin_year=2014-2015&source=national&rbl=0&rblhpb=Household&Digest=n9gIcJfq/7Fu6hc0SWyHDg'>PUDUCHERRY</a></span></font></td>
+
+    
+    
+       
+       <td align="right">0</td>
+ 
+   
+    <td align="right">0</td>
+ 
+   
+    <td align="right">9771</td>
+  
+   
+   <td align="right">7777</td>
+ 
+   
+   <td align="right">1482</td>
+  
+   
+   <td align="right">2037</td>
+  
+   
+   <td align="right">1225</td>
+ 
+   
+   <td align="right">2526</td>
+
+   
+   <td align="right">644</td>
+ 
+   
+   <td align="right">4286</td>
+  
+   
+   <td align="right">8608</td>
+ 
+   
+   <td align="right">13696</td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+    <tr>
+    <td id="Repeater1_ctl71_td1" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl71_Label1"></span></font></td>
+
+    <td id="Repeater1_ctl71_td7" align="left"><font face="verdana" size="2"><span id="Repeater1_ctl71_Label2">Total</span></font></td>
+
+    
+    
+       
+       <td align="right"><b>12345136</b></td>
+ 
+   
+    <td align="right"><b>16494182</b></td>
+ 
+   
+    <td align="right"><b>19862193</b></td>
+  
+   
+   <td align="right"><b>13686014</b></td>
+ 
+   
+   <td align="right"><b>8342663</b></td>
+  
+   
+   <td align="right"><b>7304198</b></td>
+  
+   
+   <td align="right"><b>6139632</b></td>
+ 
+   
+   <td align="right"><b>6418841</b></td>
+
+   
+   <td align="right"><b>7475187</b></td>
+ 
+   
+   <td align="right"><b>8022149</b></td>
+  
+   
+   <td align="right"><b>10325323</b></td>
+ 
+   
+   <td align="right"><b>11217013</b></td>
+  
+  
+         
+             
+ 
+ 
+  
+   
+   
+ 
+
+  </tr>
+    
+ </table>
+    
